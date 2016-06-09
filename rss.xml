@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AI Robots.press]]></title>
-        <description><![CDATA[AI Robots.press]]></description>
-        <link>https://thegrid.ai/@https://airobots.press/</link>
+        <title><![CDATA[AI Robot .press]]></title>
+        <description><![CDATA[AI Robot .press]]></description>
+        <link>http://airobot.press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 04:55:48 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/@https://airobots.press/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 06:54:25 GMT</lastBuildDate>
+        <atom:link href="http://airobot.press/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI? More Like Aieeee!! For The First Time, A Robot Can Feel Pain]]></title>
+            <description><![CDATA[<article><h1>AI? More Like Aieeee!! For The First Time, A Robot Can Feel Pain</h1><p>Researchers are developing a system to teach robots how to feel pain. That might seem counterintuitive, as IEEE Spectrum points out. After all, "One of the most useful things about robots is that they don't feel pain."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79920ee16bcde2ae741c75f2c75d08581ed23eb1.jpg"></article>]]></description>
+            <link>http://www.npr.org/sections/thetwo-way/2016/05/27/479761068/ai-more-like-aieeee-for-the-first-time-a-robot-can-feel-pain</link>
+            <guid isPermaLink="false">b65c8eb0-6054-40a8-bd88-6103a3601485</guid>
+            <pubDate>Thu, 09 Jun 2016 06:54:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We've Hit Peak Human and an Algorithm Wants Your Job. Now What?]]></title>
             <description><![CDATA[<article><h1>We've Hit Peak Human and an Algorithm Wants Your Job. Now What?</h1><p>Are the humans of finance an endangered species? People are still the lubricant that oils the wheels of finance, toiling at innumerable tasks-executing and settling trades, writing analysis, monitoring risk. That's about to change. Squeezed by low interest rates, shrinking trading revenue, and nimbler technology-based competitors, banks are racing to remake themselves as digital companies to cut costs and better serve clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/820428140bd86942410beece454584f0b6099333.jpg"></article>]]></description>
@@ -58,7 +65,7 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4063a470-7ade-4de0-8b59-36bf1ba52b21.jpg">]]></description>
-            <link>https://thegrid.ai/@https://airobots.press/hello-world/index.html</link>
+            <link>http://airobot.press/hello-world/index.html</link>
             <guid isPermaLink="false">467bfd5f-63eb-4000-8430-916d1325b0fc</guid>
             <pubDate>Thu, 09 Jun 2016 04:13:10 GMT</pubDate>
         </item>
