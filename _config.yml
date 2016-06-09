@@ -1,6 +1,6 @@
 name: AI Robots.press
 favicon: null
-layout_spectrum: 0.04529600916430354
+layout_spectrum: 0.74097
 typography_spectrum: 0.7123521412722766
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.526255960110575
-  lightness: 0.39544126368127763
-  saturation: 0.7750686232466251
-  rhythmicContrast: 0.34920331626199186
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
