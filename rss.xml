@@ -4,8 +4,15 @@
         <description><![CDATA[AI Robot .press]]></description>
         <link>http://airobot.press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 06:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 07:05:18 GMT</lastBuildDate>
         <atom:link href="http://airobot.press/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A.I. can make music and read your Facebook posts]]></title>
+            <description><![CDATA[<article><h1>A.I. can make music and read your Facebook posts</h1><p>Facebook and Google introduced two new artificial intelligence technologies that are making machines really smart.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a44e575192d2cdf45228127fb95250fec258b028.jpg"></article>]]></description>
+            <link>http://www.cnet.com/au/news/a-i-can-make-music-and-read-your-facebook-posts/</link>
+            <guid isPermaLink="false">42f5a4c8-0e1e-4dfa-9d9b-ee9340ce4b19</guid>
+            <pubDate>Thu, 09 Jun 2016 07:05:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Artificial Intelligence Designs Ultimate Road Trip]]></title>
             <description><![CDATA[<article><h1>Artificial Intelligence Designs Ultimate Road Trip</h1><p>Loyal readers will recall that last spring we conspired with artificial intelligence expert Randal Olsen to develop the ultimate U.S. road trip. The map Olson came up with -- he did all the work, really -- optimized the best way to drive by car to 50 major U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91b7a636be7cf6aec1eb9d1ae1eb223b3419e1a1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.robotics.news/2015-10-15-a-i-robot-scores-higher-than-four-year-old-on-i-q-test.html</link>
             <guid isPermaLink="false">92b2d9cd-c908-4b7d-8387-55bc69fcf2aa</guid>
             <pubDate>Thu, 09 Jun 2016 04:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4063a470-7ade-4de0-8b59-36bf1ba52b21.jpg">]]></description>
-            <link>http://airobot.press/hello-world/index.html</link>
-            <guid isPermaLink="false">467bfd5f-63eb-4000-8430-916d1325b0fc</guid>
-            <pubDate>Thu, 09 Jun 2016 04:13:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
