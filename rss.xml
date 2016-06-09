@@ -4,7 +4,7 @@
         <description><![CDATA[AI Robot .press]]></description>
         <link>http://airobot.press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 07:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 07:28:13 GMT</lastBuildDate>
         <atom:link href="http://airobot.press/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A.I. can make music and read your Facebook posts]]></title>
@@ -68,13 +68,6 @@
             <link>http://techcrunch.com/2016/04/14/what-googles-deepmind-victory-really-means/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook&amp;sr_share=facebook</link>
             <guid isPermaLink="false">786c954b-490a-47dd-9fb4-6e8694e55f67</guid>
             <pubDate>Thu, 09 Jun 2016 04:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A.I. robot scores higher than four year old on I.Q. test]]></title>
-            <description><![CDATA[<article><h1>A.I. robot scores higher than four year old on I.Q. test</h1><p>The gap between human and artificial intelligence (AI) is becoming narrower and narrower. An A.I. system at the Massachusetts Institute of Technology, dubbed ConceptNet, recently took an I.Q. test for children and scored higher than the average four year old, and the system is expected to become smarter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68acb1ae3fc81ad596f1208225522677a993171b.jpg"></article>]]></description>
-            <link>http://www.robotics.news/2015-10-15-a-i-robot-scores-higher-than-four-year-old-on-i-q-test.html</link>
-            <guid isPermaLink="false">92b2d9cd-c908-4b7d-8387-55bc69fcf2aa</guid>
-            <pubDate>Thu, 09 Jun 2016 04:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
