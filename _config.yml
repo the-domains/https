@@ -1,0 +1,28 @@
+name: AI Robots.press
+favicon: null
+layout_spectrum: 0.04529600916430354
+typography_spectrum: 0.7123521412722766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.526255960110575
+  lightness: 0.39544126368127763
+  saturation: 0.7750686232466251
+  rhythmicContrast: 0.34920331626199186
+purpose: []
